@@ -12,3 +12,5 @@ archivos, guardar cambios y trabajar con ramas.
 No hay build ni dependencias: abrí `index.html` en el navegador y listo.
 
 Cambios en local
+
+Mas cambios en remoto
